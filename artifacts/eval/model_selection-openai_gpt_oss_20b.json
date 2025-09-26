@@ -1,0 +1,15 @@
+{
+  "total_rows": 1000,
+  "evaluated": 1000,
+  "accuracy@1": 0.027,
+  "mrr": 0.9004024144869215,
+  "hit@1": 0.796,
+  "hit@3": 0.994,
+  "hit@5": 0.994,
+  "hit@10": 0.994,
+  "counts": {
+    "rr_count": 994,
+    "hit_count": 1000,
+    "correct_top1": 27
+  }
+}

@@ -1,0 +1,251 @@
+{"timestamp": "20250921T201210Z", "run_id": "20250921T201210Z_split", "step": "split-entities", "duration_ms": 365, "meta": {"pairs": 100000}}
+{"timestamp": "20250921T201849Z", "run_id": "20250921T201848Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1072, "meta": {"written": 5000}}
+{"timestamp": "20250921T201851Z", "run_id": "20250921T201850Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1064, "meta": {"written": 5000}}
+{"timestamp": "20250921T201853Z", "run_id": "20250921T201852Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1051, "meta": {"written": 5000}}
+{"timestamp": "20250921T201855Z", "run_id": "20250921T201854Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1098, "meta": {"written": 5000}}
+{"timestamp": "20250921T201857Z", "run_id": "20250921T201856Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1068, "meta": {"written": 5000}}
+{"timestamp": "20250921T201859Z", "run_id": "20250921T201858Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1072, "meta": {"written": 5000}}
+{"timestamp": "20250921T201902Z", "run_id": "20250921T201901Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1159, "meta": {"written": 5000}}
+{"timestamp": "20250921T201904Z", "run_id": "20250921T201903Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1073, "meta": {"written": 5000}}
+{"timestamp": "20250921T201906Z", "run_id": "20250921T201905Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1079, "meta": {"written": 5000}}
+{"timestamp": "20250921T201908Z", "run_id": "20250921T201907Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1069, "meta": {"written": 5000}}
+{"timestamp": "20250921T201910Z", "run_id": "20250921T201909Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1172, "meta": {"written": 5000}}
+{"timestamp": "20250921T201912Z", "run_id": "20250921T201911Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1088, "meta": {"written": 5000}}
+{"timestamp": "20250921T201914Z", "run_id": "20250921T201913Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1068, "meta": {"written": 5000}}
+{"timestamp": "20250921T201917Z", "run_id": "20250921T201916Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1094, "meta": {"written": 5000}}
+{"timestamp": "20250921T201919Z", "run_id": "20250921T201918Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1086, "meta": {"written": 5000}}
+{"timestamp": "20250921T201921Z", "run_id": "20250921T201920Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1090, "meta": {"written": 5000}}
+{"timestamp": "20250921T201923Z", "run_id": "20250921T201922Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1144, "meta": {"written": 5000}}
+{"timestamp": "20250921T201925Z", "run_id": "20250921T201924Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1139, "meta": {"written": 5000}}
+{"timestamp": "20250921T201928Z", "run_id": "20250921T201926Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1114, "meta": {"written": 5000}}
+{"timestamp": "20250921T201930Z", "run_id": "20250921T201929Z_subgraphs", "step": "build-subgraphs", "duration_ms": 1051, "meta": {"written": 5000}}
+{"timestamp": "20250921T202729Z", "run_id": "20250921T202455Z_ingest", "step": "ingest", "duration_ms": 153827, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41408}}
+{"timestamp": "20250921T203000Z", "run_id": "20250921T202730Z_ingest", "step": "ingest", "duration_ms": 149790, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40878}}
+{"timestamp": "20250921T203227Z", "run_id": "20250921T203001Z_ingest", "step": "ingest", "duration_ms": 146038, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 39983}}
+{"timestamp": "20250921T203457Z", "run_id": "20250921T203228Z_ingest", "step": "ingest", "duration_ms": 149642, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40562}}
+{"timestamp": "20250921T203731Z", "run_id": "20250921T203459Z_ingest", "step": "ingest", "duration_ms": 152397, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40136}}
+{"timestamp": "20250921T204003Z", "run_id": "20250921T203732Z_ingest", "step": "ingest", "duration_ms": 150881, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41401}}
+{"timestamp": "20250921T204237Z", "run_id": "20250921T204004Z_ingest", "step": "ingest", "duration_ms": 153665, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40950}}
+{"timestamp": "20250921T204459Z", "run_id": "20250921T204238Z_ingest", "step": "ingest", "duration_ms": 140589, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40093}}
+{"timestamp": "20250921T204724Z", "run_id": "20250921T204500Z_ingest", "step": "ingest", "duration_ms": 144239, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40088}}
+{"timestamp": "20250921T204953Z", "run_id": "20250921T204725Z_ingest", "step": "ingest", "duration_ms": 147627, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 39643}}
+{"timestamp": "20250921T205238Z", "run_id": "20250921T204954Z_ingest", "step": "ingest", "duration_ms": 164705, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41046}}
+{"timestamp": "20250921T205506Z", "run_id": "20250921T205239Z_ingest", "step": "ingest", "duration_ms": 146865, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40857}}
+{"timestamp": "20250921T205730Z", "run_id": "20250921T205507Z_ingest", "step": "ingest", "duration_ms": 142901, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40483}}
+{"timestamp": "20250921T211058Z", "run_id": "20250921T211056Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2194, "meta": {"written": 5000}}
+{"timestamp": "20250921T211102Z", "run_id": "20250921T211100Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2203, "meta": {"written": 5000}}
+{"timestamp": "20250921T211105Z", "run_id": "20250921T211103Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2195, "meta": {"written": 5000}}
+{"timestamp": "20250921T211108Z", "run_id": "20250921T211106Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2192, "meta": {"written": 5000}}
+{"timestamp": "20250921T211112Z", "run_id": "20250921T211109Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2205, "meta": {"written": 5000}}
+{"timestamp": "20250921T211115Z", "run_id": "20250921T211113Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2255, "meta": {"written": 5000}}
+{"timestamp": "20250921T211118Z", "run_id": "20250921T211116Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2189, "meta": {"written": 5000}}
+{"timestamp": "20250921T211122Z", "run_id": "20250921T211119Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2145, "meta": {"written": 5000}}
+{"timestamp": "20250921T211125Z", "run_id": "20250921T211123Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2170, "meta": {"written": 5000}}
+{"timestamp": "20250921T211128Z", "run_id": "20250921T211126Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2208, "meta": {"written": 5000}}
+{"timestamp": "20250921T211131Z", "run_id": "20250921T211129Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2189, "meta": {"written": 5000}}
+{"timestamp": "20250921T211135Z", "run_id": "20250921T211133Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2199, "meta": {"written": 5000}}
+{"timestamp": "20250921T211138Z", "run_id": "20250921T211136Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2149, "meta": {"written": 5000}}
+{"timestamp": "20250921T211141Z", "run_id": "20250921T211139Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2148, "meta": {"written": 5000}}
+{"timestamp": "20250921T211145Z", "run_id": "20250921T211142Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2146, "meta": {"written": 5000}}
+{"timestamp": "20250921T211148Z", "run_id": "20250921T211146Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2152, "meta": {"written": 5000}}
+{"timestamp": "20250921T211151Z", "run_id": "20250921T211149Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2177, "meta": {"written": 5000}}
+{"timestamp": "20250921T211154Z", "run_id": "20250921T211152Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2215, "meta": {"written": 5000}}
+{"timestamp": "20250921T211158Z", "run_id": "20250921T211155Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2280, "meta": {"written": 5000}}
+{"timestamp": "20250921T211201Z", "run_id": "20250921T211159Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2261, "meta": {"written": 5000}}
+{"timestamp": "20250921T222006Z", "run_id": "20250921T221721Z_ingest", "step": "ingest", "duration_ms": 165238, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41408}}
+{"timestamp": "20250921T222242Z", "run_id": "20250921T222007Z_ingest", "step": "ingest", "duration_ms": 155475, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40878}}
+{"timestamp": "20250921T222510Z", "run_id": "20250921T222244Z_ingest", "step": "ingest", "duration_ms": 146596, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 39983}}
+{"timestamp": "20250921T222756Z", "run_id": "20250921T222754Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2366, "meta": {"written": 5000}}
+{"timestamp": "20250921T222759Z", "run_id": "20250921T222511Z_ingest", "step": "ingest", "duration_ms": 167612, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40562}}
+{"timestamp": "20250921T222759Z", "run_id": "20250921T222757Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2250, "meta": {"written": 5000}}
+{"timestamp": "20250921T222803Z", "run_id": "20250921T222800Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2267, "meta": {"written": 5000}}
+{"timestamp": "20250921T222806Z", "run_id": "20250921T222804Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2372, "meta": {"written": 5000}}
+{"timestamp": "20250921T222810Z", "run_id": "20250921T222807Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2298, "meta": {"written": 5000}}
+{"timestamp": "20250921T222813Z", "run_id": "20250921T222811Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2480, "meta": {"written": 5000}}
+{"timestamp": "20250921T222817Z", "run_id": "20250921T222815Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2256, "meta": {"written": 5000}}
+{"timestamp": "20250921T222820Z", "run_id": "20250921T222818Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2343, "meta": {"written": 5000}}
+{"timestamp": "20250921T222824Z", "run_id": "20250921T222822Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2239, "meta": {"written": 5000}}
+{"timestamp": "20250921T222827Z", "run_id": "20250921T222825Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2333, "meta": {"written": 5000}}
+{"timestamp": "20250921T222831Z", "run_id": "20250921T222828Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2281, "meta": {"written": 5000}}
+{"timestamp": "20250921T222834Z", "run_id": "20250921T222832Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2361, "meta": {"written": 5000}}
+{"timestamp": "20250921T222837Z", "run_id": "20250921T222835Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2219, "meta": {"written": 5000}}
+{"timestamp": "20250921T222841Z", "run_id": "20250921T222839Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2351, "meta": {"written": 5000}}
+{"timestamp": "20250921T222844Z", "run_id": "20250921T222842Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2193, "meta": {"written": 5000}}
+{"timestamp": "20250921T222848Z", "run_id": "20250921T222845Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2185, "meta": {"written": 5000}}
+{"timestamp": "20250921T222851Z", "run_id": "20250921T222849Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2208, "meta": {"written": 5000}}
+{"timestamp": "20250921T222854Z", "run_id": "20250921T222852Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2219, "meta": {"written": 5000}}
+{"timestamp": "20250921T222858Z", "run_id": "20250921T222855Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2337, "meta": {"written": 5000}}
+{"timestamp": "20250921T222901Z", "run_id": "20250921T222859Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2241, "meta": {"written": 5000}}
+{"timestamp": "20250921T223028Z", "run_id": "20250921T222800Z_ingest", "step": "ingest", "duration_ms": 148250, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40136}}
+{"timestamp": "20250921T223301Z", "run_id": "20250921T223029Z_ingest", "step": "ingest", "duration_ms": 151815, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41401}}
+{"timestamp": "20250921T223535Z", "run_id": "20250921T223302Z_ingest", "step": "ingest", "duration_ms": 153210, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40950}}
+{"timestamp": "20250921T223802Z", "run_id": "20250921T223536Z_ingest", "step": "ingest", "duration_ms": 146072, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40093}}
+{"timestamp": "20250921T223850Z", "run_id": "20250921T223847Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2431, "meta": {"written": 5000}}
+{"timestamp": "20250921T223853Z", "run_id": "20250921T223851Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2410, "meta": {"written": 5000}}
+{"timestamp": "20250921T223857Z", "run_id": "20250921T223854Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2523, "meta": {"written": 5000}}
+{"timestamp": "20250921T223901Z", "run_id": "20250921T223858Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2403, "meta": {"written": 5000}}
+{"timestamp": "20250921T223904Z", "run_id": "20250921T223902Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2555, "meta": {"written": 5000}}
+{"timestamp": "20250921T223908Z", "run_id": "20250921T223905Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2539, "meta": {"written": 5000}}
+{"timestamp": "20250921T223912Z", "run_id": "20250921T223909Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2455, "meta": {"written": 5000}}
+{"timestamp": "20250921T223915Z", "run_id": "20250921T223913Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2451, "meta": {"written": 5000}}
+{"timestamp": "20250921T223919Z", "run_id": "20250921T223916Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2528, "meta": {"written": 5000}}
+{"timestamp": "20250921T223923Z", "run_id": "20250921T223920Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2432, "meta": {"written": 5000}}
+{"timestamp": "20250921T223926Z", "run_id": "20250921T223924Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2477, "meta": {"written": 5000}}
+{"timestamp": "20250921T223930Z", "run_id": "20250921T223928Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2508, "meta": {"written": 5000}}
+{"timestamp": "20250921T223934Z", "run_id": "20250921T223931Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2427, "meta": {"written": 5000}}
+{"timestamp": "20250921T223937Z", "run_id": "20250921T223935Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2555, "meta": {"written": 5000}}
+{"timestamp": "20250921T223941Z", "run_id": "20250921T223939Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2317, "meta": {"written": 5000}}
+{"timestamp": "20250921T223945Z", "run_id": "20250921T223942Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2554, "meta": {"written": 5000}}
+{"timestamp": "20250921T223948Z", "run_id": "20250921T223946Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2439, "meta": {"written": 5000}}
+{"timestamp": "20250921T223952Z", "run_id": "20250921T223950Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2423, "meta": {"written": 5000}}
+{"timestamp": "20250921T223956Z", "run_id": "20250921T223953Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2505, "meta": {"written": 5000}}
+{"timestamp": "20250921T223959Z", "run_id": "20250921T223957Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 2351, "meta": {"written": 5000}}
+{"timestamp": "20250921T224022Z", "run_id": "20250921T223803Z_ingest", "step": "ingest", "duration_ms": 138440, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40088}}
+{"timestamp": "20250921T224257Z", "run_id": "20250921T224023Z_ingest", "step": "ingest", "duration_ms": 154026, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 39643}}
+{"timestamp": "20250921T224530Z", "run_id": "20250921T224258Z_ingest", "step": "ingest", "duration_ms": 152505, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41046}}
+{"timestamp": "20250921T224804Z", "run_id": "20250921T224531Z_ingest", "step": "ingest", "duration_ms": 152530, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40857}}
+{"timestamp": "20250921T225032Z", "run_id": "20250921T224805Z_ingest", "step": "ingest", "duration_ms": 147081, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40483}}
+{"timestamp": "20250921T225301Z", "run_id": "20250921T225033Z_ingest", "step": "ingest", "duration_ms": 147360, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40151}}
+{"timestamp": "20250921T225532Z", "run_id": "20250921T225302Z_ingest", "step": "ingest", "duration_ms": 150172, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40244}}
+{"timestamp": "20250921T225815Z", "run_id": "20250921T225533Z_ingest", "step": "ingest", "duration_ms": 161819, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41276}}
+{"timestamp": "20250921T230118Z", "run_id": "20250921T225816Z_ingest", "step": "ingest", "duration_ms": 182156, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 41076}}
+{"timestamp": "20250921T230350Z", "run_id": "20250921T230119Z_ingest", "step": "ingest", "duration_ms": 151107, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40414}}
+{"timestamp": "20250921T230620Z", "run_id": "20250921T230352Z_ingest", "step": "ingest", "duration_ms": 147914, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 39729}}
+{"timestamp": "20250921T230855Z", "run_id": "20250921T230621Z_ingest", "step": "ingest", "duration_ms": 154546, "meta": {"collection": "kg_target_sentences_dbpyg", "sentences": 40579}}
+{"timestamp": "20250921T232408Z", "run_id": "20250921T232119Z_ingest", "step": "ingest", "duration_ms": 169807, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49091}}
+{"timestamp": "20250921T232708Z", "run_id": "20250921T232409Z_ingest", "step": "ingest", "duration_ms": 178512, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49539}}
+{"timestamp": "20250921T233008Z", "run_id": "20250921T232709Z_ingest", "step": "ingest", "duration_ms": 179472, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49029}}
+{"timestamp": "20250921T233303Z", "run_id": "20250921T233010Z_ingest", "step": "ingest", "duration_ms": 172983, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49382}}
+{"timestamp": "20250921T233605Z", "run_id": "20250921T233304Z_ingest", "step": "ingest", "duration_ms": 181267, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 48730}}
+{"timestamp": "20250921T233911Z", "run_id": "20250921T233606Z_ingest", "step": "ingest", "duration_ms": 185175, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49205}}
+{"timestamp": "20250921T234216Z", "run_id": "20250921T233912Z_ingest", "step": "ingest", "duration_ms": 183706, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49120}}
+{"timestamp": "20250921T234508Z", "run_id": "20250921T234217Z_ingest", "step": "ingest", "duration_ms": 171224, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 48452}}
+{"timestamp": "20250921T234904Z", "run_id": "20250921T234509Z_ingest", "step": "ingest", "duration_ms": 234171, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 48942}}
+{"timestamp": "20250921T235206Z", "run_id": "20250921T234905Z_ingest", "step": "ingest", "duration_ms": 181615, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49221}}
+{"timestamp": "20250921T235505Z", "run_id": "20250921T235207Z_ingest", "step": "ingest", "duration_ms": 177575, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49366}}
+{"timestamp": "20250921T235804Z", "run_id": "20250921T235506Z_ingest", "step": "ingest", "duration_ms": 178218, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49173}}
+{"timestamp": "20250922T000118Z", "run_id": "20250921T235805Z_ingest", "step": "ingest", "duration_ms": 193125, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49004}}
+{"timestamp": "20250922T000416Z", "run_id": "20250922T000119Z_ingest", "step": "ingest", "duration_ms": 177089, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 48927}}
+{"timestamp": "20250922T000737Z", "run_id": "20250922T000418Z_ingest", "step": "ingest", "duration_ms": 199065, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49183}}
+{"timestamp": "20250922T001057Z", "run_id": "20250922T000738Z_ingest", "step": "ingest", "duration_ms": 199381, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49264}}
+{"timestamp": "20250922T001415Z", "run_id": "20250922T001058Z_ingest", "step": "ingest", "duration_ms": 197370, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49756}}
+{"timestamp": "20250922T001724Z", "run_id": "20250922T001417Z_ingest", "step": "ingest", "duration_ms": 187234, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49263}}
+{"timestamp": "20250922T002029Z", "run_id": "20250922T001725Z_ingest", "step": "ingest", "duration_ms": 184141, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 49070}}
+{"timestamp": "20250922T002339Z", "run_id": "20250922T002030Z_ingest", "step": "ingest", "duration_ms": 188943, "meta": {"collection": "kg_source_sentences_dbpyg", "sentences": 48931}}
+{"timestamp": "20250922T220544Z", "run_id": "20250922T220328Z_predict", "step": "predict", "duration_ms": 135236, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash-lite", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T220818Z", "run_id": "20250922T220545Z_predict", "step": "predict", "duration_ms": 153215, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "openai/gpt-oss-120b", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T221119Z", "run_id": "20250922T220908Z_predict", "step": "predict", "duration_ms": 131276, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash-lite", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T221403Z", "run_id": "20250922T221120Z_predict", "step": "predict", "duration_ms": 163177, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "openai/gpt-oss-120b", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T221514Z", "run_id": "20250922T221513Z_evaluate", "step": "evaluate", "duration_ms": 986, "meta": {"pred": "/Users/davide/dev/uni/ea-rag-2040/artifacts/predictions/20250922T201719Z_google_gemini-2.5-flash_aa1k.jsonl", "truth": null, "pairs": "/Users/davide/dev/uni/ea-rag-2040/artifacts/entity_pairs.txt"}}
+{"timestamp": "20250922T221516Z", "run_id": "20250922T221515Z_evaluate", "step": "evaluate", "duration_ms": 987, "meta": {"pred": "/Users/davide/dev/uni/ea-rag-2040/artifacts/predictions/20250922T220544Z_openai_gpt-oss-120b_aa1k.jsonl", "truth": null, "pairs": "/Users/davide/dev/uni/ea-rag-2040/artifacts/entity_pairs.txt"}}
+{"timestamp": "20250922T222323Z", "run_id": "20250922T222021Z_predict", "step": "predict", "duration_ms": 181690, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-non-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T223024Z", "run_id": "20250922T222819Z_predict", "step": "predict", "duration_ms": 124973, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-non-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T223954Z", "run_id": "20250922T223806Z_predict", "step": "predict", "duration_ms": 108332, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-non-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T224350Z", "run_id": "20250922T224144Z_predict", "step": "predict", "duration_ms": 126324, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-non-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T224743Z", "run_id": "20250922T224537Z_predict", "step": "predict", "duration_ms": 125664, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-non-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T225436Z", "run_id": "20250922T225254Z_predict", "step": "predict", "duration_ms": 101772, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash-lite", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T225622Z", "run_id": "20250922T225437Z_predict", "step": "predict", "duration_ms": 104737, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T231832Z", "run_id": "20250922T231646Z_predict", "step": "predict", "duration_ms": 106166, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T232012Z", "run_id": "20250922T231833Z_predict", "step": "predict", "duration_ms": 98748, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash-lite", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T232154Z", "run_id": "20250922T232013Z_predict", "step": "predict", "duration_ms": 100897, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "openai/gpt-oss-120b", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T232453Z", "run_id": "20250922T232155Z_predict", "step": "predict", "duration_ms": 177994, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "openai/gpt-oss-20b", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T232928Z", "run_id": "20250922T232725Z_predict", "step": "predict", "duration_ms": 123735, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-non-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T233355Z", "run_id": "20250922T232929Z_predict", "step": "predict", "duration_ms": 266095, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-4-fast-reasoning", "retrieval": true, "total": 1000}}
+{"timestamp": "20250922T233739Z", "run_id": "20250922T233356Z_predict", "step": "predict", "duration_ms": 222134, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "grok-code-fast-1", "retrieval": true, "total": 1000}}
+{"timestamp": "20250923T000523Z", "run_id": "20250922T235728Z_predict", "step": "predict", "duration_ms": 474388, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T001929Z", "run_id": "20250923T000524Z_predict", "step": "predict", "duration_ms": 539739, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T002731Z", "run_id": "20250923T001930Z_predict", "step": "predict", "duration_ms": 481250, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T003528Z", "run_id": "20250923T002732Z_predict", "step": "predict", "duration_ms": 475426, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T004322Z", "run_id": "20250923T003528Z_predict", "step": "predict", "duration_ms": 473370, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T005106Z", "run_id": "20250923T004323Z_predict", "step": "predict", "duration_ms": 463297, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T005848Z", "run_id": "20250923T005107Z_predict", "step": "predict", "duration_ms": 461276, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T010643Z", "run_id": "20250923T005849Z_predict", "step": "predict", "duration_ms": 473632, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T011422Z", "run_id": "20250923T010643Z_predict", "step": "predict", "duration_ms": 458305, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T012227Z", "run_id": "20250923T011423Z_predict", "step": "predict", "duration_ms": 484529, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T013019Z", "run_id": "20250923T012228Z_predict", "step": "predict", "duration_ms": 471355, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T013813Z", "run_id": "20250923T013020Z_predict", "step": "predict", "duration_ms": 472485, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T014551Z", "run_id": "20250923T013814Z_predict", "step": "predict", "duration_ms": 457269, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T015344Z", "run_id": "20250923T014552Z_predict", "step": "predict", "duration_ms": 472728, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T020123Z", "run_id": "20250923T015345Z_predict", "step": "predict", "duration_ms": 457140, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T020918Z", "run_id": "20250923T020123Z_predict", "step": "predict", "duration_ms": 474579, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T021700Z", "run_id": "20250923T020919Z_predict", "step": "predict", "duration_ms": 461110, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T022508Z", "run_id": "20250923T021701Z_predict", "step": "predict", "duration_ms": 487251, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T023315Z", "run_id": "20250923T022509Z_predict", "step": "predict", "duration_ms": 485878, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250923T024049Z", "run_id": "20250923T023316Z_predict", "step": "predict", "duration_ms": 453314, "meta": {"target_collection": "kg_target_sentences_dbpyg", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 5000}}
+{"timestamp": "20250925T113302Z", "run_id": "20250925T113302Z_split", "step": "split-entities", "duration_ms": 59, "meta": {"pairs": 15000}}
+{"timestamp": "20250925T113313Z", "run_id": "20250925T113313Z_subgraphs", "step": "build-subgraphs", "duration_ms": 268, "meta": {"written": 1000}}
+{"timestamp": "20250925T113315Z", "run_id": "20250925T113314Z_subgraphs", "step": "build-subgraphs", "duration_ms": 273, "meta": {"written": 1000}}
+{"timestamp": "20250925T113316Z", "run_id": "20250925T113316Z_subgraphs", "step": "build-subgraphs", "duration_ms": 274, "meta": {"written": 1000}}
+{"timestamp": "20250925T113317Z", "run_id": "20250925T113317Z_subgraphs", "step": "build-subgraphs", "duration_ms": 272, "meta": {"written": 1000}}
+{"timestamp": "20250925T113318Z", "run_id": "20250925T113318Z_subgraphs", "step": "build-subgraphs", "duration_ms": 250, "meta": {"written": 1000}}
+{"timestamp": "20250925T113320Z", "run_id": "20250925T113320Z_subgraphs", "step": "build-subgraphs", "duration_ms": 277, "meta": {"written": 1000}}
+{"timestamp": "20250925T113321Z", "run_id": "20250925T113321Z_subgraphs", "step": "build-subgraphs", "duration_ms": 291, "meta": {"written": 1000}}
+{"timestamp": "20250925T113323Z", "run_id": "20250925T113322Z_subgraphs", "step": "build-subgraphs", "duration_ms": 270, "meta": {"written": 1000}}
+{"timestamp": "20250925T113324Z", "run_id": "20250925T113324Z_subgraphs", "step": "build-subgraphs", "duration_ms": 244, "meta": {"written": 1000}}
+{"timestamp": "20250925T113325Z", "run_id": "20250925T113325Z_subgraphs", "step": "build-subgraphs", "duration_ms": 267, "meta": {"written": 1000}}
+{"timestamp": "20250925T113327Z", "run_id": "20250925T113326Z_subgraphs", "step": "build-subgraphs", "duration_ms": 282, "meta": {"written": 1000}}
+{"timestamp": "20250925T113328Z", "run_id": "20250925T113328Z_subgraphs", "step": "build-subgraphs", "duration_ms": 234, "meta": {"written": 1000}}
+{"timestamp": "20250925T113329Z", "run_id": "20250925T113329Z_subgraphs", "step": "build-subgraphs", "duration_ms": 223, "meta": {"written": 1000}}
+{"timestamp": "20250925T113331Z", "run_id": "20250925T113330Z_subgraphs", "step": "build-subgraphs", "duration_ms": 233, "meta": {"written": 1000}}
+{"timestamp": "20250925T113332Z", "run_id": "20250925T113332Z_subgraphs", "step": "build-subgraphs", "duration_ms": 232, "meta": {"written": 1000}}
+{"timestamp": "20250925T113544Z", "run_id": "20250925T113342Z_ingest", "step": "ingest", "duration_ms": 122793, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 28068}}
+{"timestamp": "20250925T113714Z", "run_id": "20250925T113545Z_ingest", "step": "ingest", "duration_ms": 88894, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 21648}}
+{"timestamp": "20250925T113824Z", "run_id": "20250925T113715Z_ingest", "step": "ingest", "duration_ms": 68949, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 17845}}
+{"timestamp": "20250925T113922Z", "run_id": "20250925T113825Z_ingest", "step": "ingest", "duration_ms": 56656, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 15361}}
+{"timestamp": "20250925T114017Z", "run_id": "20250925T113923Z_ingest", "step": "ingest", "duration_ms": 54299, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 13783}}
+{"timestamp": "20250925T114105Z", "run_id": "20250925T114018Z_ingest", "step": "ingest", "duration_ms": 47023, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 12750}}
+{"timestamp": "20250925T114153Z", "run_id": "20250925T114106Z_ingest", "step": "ingest", "duration_ms": 46690, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 11782}}
+{"timestamp": "20250925T114236Z", "run_id": "20250925T114154Z_ingest", "step": "ingest", "duration_ms": 41652, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 10968}}
+{"timestamp": "20250925T114320Z", "run_id": "20250925T114237Z_ingest", "step": "ingest", "duration_ms": 43255, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 10370}}
+{"timestamp": "20250925T114359Z", "run_id": "20250925T114321Z_ingest", "step": "ingest", "duration_ms": 37226, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 9792}}
+{"timestamp": "20250925T114436Z", "run_id": "20250925T114400Z_ingest", "step": "ingest", "duration_ms": 36397, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 9232}}
+{"timestamp": "20250925T114512Z", "run_id": "20250925T114437Z_ingest", "step": "ingest", "duration_ms": 34374, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 8292}}
+{"timestamp": "20250925T114544Z", "run_id": "20250925T114513Z_ingest", "step": "ingest", "duration_ms": 31279, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 7504}}
+{"timestamp": "20250925T114611Z", "run_id": "20250925T114545Z_ingest", "step": "ingest", "duration_ms": 26320, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 6635}}
+{"timestamp": "20250925T114633Z", "run_id": "20250925T114612Z_ingest", "step": "ingest", "duration_ms": 20854, "meta": {"collection": "kg_target_sentences_dbp15k", "sentences": 5218}}
+{"timestamp": "20250925T120037Z", "run_id": "20250925T120037Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 276, "meta": {"written": 1000}}
+{"timestamp": "20250925T120039Z", "run_id": "20250925T120038Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 292, "meta": {"written": 1000}}
+{"timestamp": "20250925T120040Z", "run_id": "20250925T120040Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 256, "meta": {"written": 1000}}
+{"timestamp": "20250925T120041Z", "run_id": "20250925T120041Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 273, "meta": {"written": 1000}}
+{"timestamp": "20250925T120043Z", "run_id": "20250925T120043Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 263, "meta": {"written": 1000}}
+{"timestamp": "20250925T120044Z", "run_id": "20250925T120044Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 238, "meta": {"written": 1000}}
+{"timestamp": "20250925T120046Z", "run_id": "20250925T120045Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 245, "meta": {"written": 1000}}
+{"timestamp": "20250925T120047Z", "run_id": "20250925T120047Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 252, "meta": {"written": 1000}}
+{"timestamp": "20250925T120048Z", "run_id": "20250925T120048Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 260, "meta": {"written": 1000}}
+{"timestamp": "20250925T120050Z", "run_id": "20250925T120049Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 227, "meta": {"written": 1000}}
+{"timestamp": "20250925T120051Z", "run_id": "20250925T120051Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 248, "meta": {"written": 1000}}
+{"timestamp": "20250925T120052Z", "run_id": "20250925T120052Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 233, "meta": {"written": 1000}}
+{"timestamp": "20250925T120053Z", "run_id": "20250925T120053Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 249, "meta": {"written": 1000}}
+{"timestamp": "20250925T120055Z", "run_id": "20250925T120055Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 234, "meta": {"written": 1000}}
+{"timestamp": "20250925T120056Z", "run_id": "20250925T120056Z_src_subgraphs", "step": "build-source-subgraphs", "duration_ms": 232, "meta": {"written": 1000}}
+{"timestamp": "20250925T120224Z", "run_id": "20250925T120123Z_ingest", "step": "ingest", "duration_ms": 60792, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 15748}}
+{"timestamp": "20250925T120320Z", "run_id": "20250925T120225Z_ingest", "step": "ingest", "duration_ms": 54986, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 14777}}
+{"timestamp": "20250925T120414Z", "run_id": "20250925T120321Z_ingest", "step": "ingest", "duration_ms": 53669, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 13466}}
+{"timestamp": "20250925T120504Z", "run_id": "20250925T120415Z_ingest", "step": "ingest", "duration_ms": 48850, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 12409}}
+{"timestamp": "20250925T120556Z", "run_id": "20250925T120505Z_ingest", "step": "ingest", "duration_ms": 51033, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 11873}}
+{"timestamp": "20250925T120642Z", "run_id": "20250925T120557Z_ingest", "step": "ingest", "duration_ms": 44954, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 11033}}
+{"timestamp": "20250925T120727Z", "run_id": "20250925T120643Z_ingest", "step": "ingest", "duration_ms": 43604, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 10547}}
+{"timestamp": "20250925T120805Z", "run_id": "20250925T120728Z_ingest", "step": "ingest", "duration_ms": 36700, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 9704}}
+{"timestamp": "20250925T120844Z", "run_id": "20250925T120806Z_ingest", "step": "ingest", "duration_ms": 38520, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 9357}}
+{"timestamp": "20250925T120921Z", "run_id": "20250925T120845Z_ingest", "step": "ingest", "duration_ms": 35494, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 8783}}
+{"timestamp": "20250925T120952Z", "run_id": "20250925T120922Z_ingest", "step": "ingest", "duration_ms": 29942, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 8157}}
+{"timestamp": "20250925T121025Z", "run_id": "20250925T120953Z_ingest", "step": "ingest", "duration_ms": 31675, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 7444}}
+{"timestamp": "20250925T121054Z", "run_id": "20250925T121026Z_ingest", "step": "ingest", "duration_ms": 27979, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 6864}}
+{"timestamp": "20250925T121121Z", "run_id": "20250925T121055Z_ingest", "step": "ingest", "duration_ms": 26366, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 5922}}
+{"timestamp": "20250925T121141Z", "run_id": "20250925T121122Z_ingest", "step": "ingest", "duration_ms": 19332, "meta": {"collection": "kg_source_sentences_dbp15k", "sentences": 4602}}
+{"timestamp": "20250925T121346Z", "run_id": "20250925T121205Z_predict", "step": "predict", "duration_ms": 101404, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T121515Z", "run_id": "20250925T121347Z_predict", "step": "predict", "duration_ms": 87774, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T121650Z", "run_id": "20250925T121516Z_predict", "step": "predict", "duration_ms": 94075, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T121832Z", "run_id": "20250925T121651Z_predict", "step": "predict", "duration_ms": 100360, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122013Z", "run_id": "20250925T121833Z_predict", "step": "predict", "duration_ms": 100176, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122149Z", "run_id": "20250925T122014Z_predict", "step": "predict", "duration_ms": 94669, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122325Z", "run_id": "20250925T122150Z_predict", "step": "predict", "duration_ms": 95678, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122457Z", "run_id": "20250925T122327Z_predict", "step": "predict", "duration_ms": 89988, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122630Z", "run_id": "20250925T122458Z_predict", "step": "predict", "duration_ms": 92072, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122811Z", "run_id": "20250925T122631Z_predict", "step": "predict", "duration_ms": 99829, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T122948Z", "run_id": "20250925T122812Z_predict", "step": "predict", "duration_ms": 96094, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T123119Z", "run_id": "20250925T122949Z_predict", "step": "predict", "duration_ms": 89752, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T123256Z", "run_id": "20250925T123120Z_predict", "step": "predict", "duration_ms": 96155, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T123433Z", "run_id": "20250925T123257Z_predict", "step": "predict", "duration_ms": 95626, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T123615Z", "run_id": "20250925T123434Z_predict", "step": "predict", "duration_ms": 101150, "meta": {"target_collection": "kg_target_sentences_dbp15k", "model": "google/gemini-2.5-flash", "retrieval": true, "total": 1000}}
+{"timestamp": "20250925T132318Z", "run_id": "20250925T132318Z_evaluate", "step": "evaluate", "duration_ms": 482, "meta": {"pred": "/Users/davide/dev/uni/ea-rag-2040/artifacts/predictions/dbp15k_all.jsonl", "truth": null, "pairs": "/Users/davide/dev/uni/ea-rag-2040/artifacts/dbp15k_entity_pairs.txt"}}
